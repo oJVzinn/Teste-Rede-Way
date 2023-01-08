@@ -1,0 +1,6 @@
+name: ProjectTest
+version: '1.0'
+main: dev.ojvzinn.projectteste.Main
+api-version: 1.19
+softdepend:
+  - DecentHolograms
